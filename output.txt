@@ -1,3 +1,9 @@
+// Natu Myers 10068437
+// Dan Lawrence 10085513
+
+
+// The lights cycle through these states
+
 Eastbound turning green.
 
 Both lights turning red.
@@ -5,6 +11,7 @@ Both lights turning red.
 Westbound turning green.
 
 Both lights turning red.
+// Here are the cars
 At time 500 Car 1 is driving around Barriefield.
 At time 500 Car 2 is driving around Barriefield.
 At time 500 Car 3 is driving around Barriefield.
@@ -15,12 +22,14 @@ At time 500 Car 7 is driving around Barriefield.
 This is main speaking
 At time 500 Car 8 is driving around Barriefield.
 
+//They can only go on green.
 Eastbound turning green.
 At time 629 Car 4 wants to cross westbound.
 At time 653 Car 8 wants to cross westbound.
 At time 731 Car 5 wants to cross westbound.
 At time 768 Car 2 wants to cross westbound.
 
+// Nothing starts to cross on red
 Both lights turning red.
 At time 847 Car 7 wants to cross westbound.
 At time 862 Car 3 wants to cross westbound.
